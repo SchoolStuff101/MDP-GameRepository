@@ -12620,8 +12620,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1412168636}
   - component: {fileID: 1412168635}
-  - component: {fileID: 1412168634}
   - component: {fileID: 1412168633}
+  - component: {fileID: 1412168634}
   m_Layer: 0
   m_Name: Security-Guard-1-1.png
   m_TagString: Untagged
@@ -12659,7 +12659,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1412168632}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e14c2af81fb49d4f88214119afa51a7, type: 3}
+  m_Script: {fileID: 11500000, guid: 5bae2b34c60f92649bcc5e4793aa13a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &1412168635
@@ -12720,12 +12720,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1412168632}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.67, y: 0.85, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.439, y: -5.195, z: 21.855623}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 1821536978}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1431801105
 GameObject:
@@ -14325,7 +14325,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.37096834, y: 5.2248993, z: -21.855623}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1412168636}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
