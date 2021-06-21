@@ -12620,36 +12620,14 @@ GameObject:
   m_Component:
   - component: {fileID: 1412168636}
   - component: {fileID: 1412168635}
-  - component: {fileID: 1412168633}
   - component: {fileID: 1412168634}
   m_Layer: 0
-  m_Name: Security-Guard-1-1.png
+  m_Name: SecurityGuard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!50 &1412168633
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1412168632}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!114 &1412168634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12662,6 +12640,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bae2b34c60f92649bcc5e4793aa13a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SecurityGuard: {fileID: 0}
+  speed: 2
 --- !u!212 &1412168635
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12721,7 +12701,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1412168632}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.439, y: -5.195, z: 21.855623}
+  m_LocalPosition: {x: -0.98, y: 13.18, z: 21.785}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1821536978}
