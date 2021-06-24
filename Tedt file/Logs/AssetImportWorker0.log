@@ -1,0 +1,213 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 7906 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/atila.ozeken/Documents/GitHub/MDP-GameRepository/Tedt file
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52827
+Successfully changed project path to: C:/Users/atila.ozeken/Documents/GitHub/MDP-GameRepository/Tedt file
+C:/Users/atila.ozeken/Documents/GitHub/MDP-GameRepository/Tedt file
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/atila.ozeken/Documents/GitHub/MDP-GameRepository/Tedt file/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5707
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.100450 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.767 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.044225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.519 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.171000 ms (FindLiveObjects: 0.218300 ms CreateObjectMapping: 0.105400 ms MarkObjects: 1.727100 ms  DeleteObjects: 0.119000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Concrete_wall-1.png.png
+  artifactKey: Guid(9eecb1cece17cab4d9b831fd54a3e904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall-1.png.png using Guid(9eecb1cece17cab4d9b831fd54a3e904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8707897f5b774265f8728d005614316') in 0.101130 seconds
+  Import took 0.103796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Concrete_Floor -1.png.png
+  artifactKey: Guid(45ac0e1d4a854f64492e57138c43cf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor -1.png.png using Guid(45ac0e1d4a854f64492e57138c43cf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98738cb357a02b1ab51535d3dab25a9') in 0.012146 seconds
+  Import took 0.014828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Concrete_Floor_Left-1.png.png
+  artifactKey: Guid(844ce9a30681b2d4e981f2d8dca1e99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Left-1.png.png using Guid(844ce9a30681b2d4e981f2d8dca1e99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9fb9cbab30b2878cb8dd17b4015ae6') in 0.011158 seconds
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Concrete_Floor(Bottom)-1.png.png
+  artifactKey: Guid(39a35839fdce36940809052e18e5d9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor(Bottom)-1.png.png using Guid(39a35839fdce36940809052e18e5d9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d0030afcec36b84d992a2c32b7b33e') in 0.011066 seconds
+  Import took 0.014149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Concrete_Doorway-1.png.png
+  artifactKey: Guid(e3e002d2898ffc949b6d70c2783e7b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Doorway-1.png.png using Guid(e3e002d2898ffc949b6d70c2783e7b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7728060f3190bf645495786f303e7170') in 0.013039 seconds
+  Import took 0.016030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Concrete_wall(Top)-1.png.png
+  artifactKey: Guid(7d6700e44b161ef469ada15e465a3f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall(Top)-1.png.png using Guid(7d6700e44b161ef469ada15e465a3f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3739f7100f84ee6304f1470ccfb0ec66') in 0.010461 seconds
+  Import took 0.013238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Concrete_wall_V3-1.png (1).png
+  artifactKey: Guid(a95c2cd45a3009148b51e220f37ff59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall_V3-1.png (1).png using Guid(a95c2cd45a3009148b51e220f37ff59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38aba8408ad864928387dad10cefca0') in 0.010310 seconds
+  Import took 0.013135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Concrete_Floor_Corner(B-Right)-1.png.png
+  artifactKey: Guid(32a1a4007b39aa640b4d674c3344f07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Corner(B-Right)-1.png.png using Guid(32a1a4007b39aa640b4d674c3344f07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd800d9f4f964232190a79264b7fb7977') in 0.010954 seconds
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Concrete_Floor_Corner(T-Right)-1.png.png
+  artifactKey: Guid(8e184bf0e4d5e08409b38bc28a93a4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Corner(T-Right)-1.png.png using Guid(8e184bf0e4d5e08409b38bc28a93a4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f02c0345242610b0e6121014d822433') in 0.008907 seconds
+  Import took 0.011717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Concrete_Floor(Top)-1.png.png
+  artifactKey: Guid(b64823bba8bfce84b97c5b11af5f53f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor(Top)-1.png.png using Guid(b64823bba8bfce84b97c5b11af5f53f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e803c2831450e09c3621eda23c8a98f0') in 0.009807 seconds
+  Import took 0.012348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Concrete_wall_V4-1.png.png
+  artifactKey: Guid(e5b85b38084255b45bf25597cc00aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall_V4-1.png.png using Guid(e5b85b38084255b45bf25597cc00aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390469adc78b2f78ce911ccbdaf8b116') in 0.010112 seconds
+  Import took 0.012637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Concrete_wall_v3-1.png.png
+  artifactKey: Guid(9964fe5c79aac0d4f80528e1deb758d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall_v3-1.png.png using Guid(9964fe5c79aac0d4f80528e1deb758d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b110f33cdaef409fb804fd2c71275835') in 0.010047 seconds
+  Import took 0.012599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Concrete_wall_V2-1.png.png
+  artifactKey: Guid(ba34c562f34eeca40bc92712d9bef939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall_V2-1.png.png using Guid(ba34c562f34eeca40bc92712d9bef939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6542bd18edc8fa9157b98eb6a600a1fe') in 0.009695 seconds
+  Import took 0.012193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Concrete_Floor_Corner(T-Left)-1.png.png
+  artifactKey: Guid(7bf84182e5087bb468b59da6c7c29f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Corner(T-Left)-1.png.png using Guid(7bf84182e5087bb468b59da6c7c29f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee3e552cfcce2a2576d997a8b410dee') in 0.012316 seconds
+  Import took 0.015124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Concrete_Floor_Corner(B-Left)-1.png.png
+  artifactKey: Guid(1457e0b18e7800d4e8dc6d1133289d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Corner(B-Left)-1.png.png using Guid(1457e0b18e7800d4e8dc6d1133289d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958335f5944940d72b368363a7025965') in 0.016485 seconds
+  Import took 0.020078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Concrete_Floor_Right-1.png.png
+  artifactKey: Guid(a3d677b2057f8e0459d25301749f95ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_Floor_Right-1.png.png using Guid(a3d677b2057f8e0459d25301749f95ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3a60b3237f2cca6ebbea90dd13e212') in 0.016681 seconds
+  Import took 0.019578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ConcreteWall_V1-1.png.png
+  artifactKey: Guid(8f79aa98c63315c44a73ea68b5214ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ConcreteWall_V1-1.png.png using Guid(8f79aa98c63315c44a73ea68b5214ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6976c7a609e14c151f4b5e737abe72f8') in 0.013365 seconds
+  Import took 0.016577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Concrete_wall_V2-1.png (1).png
+  artifactKey: Guid(e2a89d036556dd746a77299da1e25c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Concrete_wall_V2-1.png (1).png using Guid(e2a89d036556dd746a77299da1e25c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042789390b716bd272f64f07a248e389') in 0.018643 seconds
+  Import took 0.022082 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
